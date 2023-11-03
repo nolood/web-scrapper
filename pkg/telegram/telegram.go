@@ -17,7 +17,7 @@ func InitTelegramBot() {
 		panic(err)
 	}
 
-	bot.Debug = true
+	//bot.Debug = true
 
 }
 
